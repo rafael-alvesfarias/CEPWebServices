@@ -1,1 +1,14 @@
 target/classes/br/com/farias/cepws/data/dao/EnderecoDAO.class
+target/classes/br/com/farias/cepws/data/dao/EnderecoDAOImpl.class
+target/classes/br/com/farias/cepws/data/dao/EnderecoNaoEncontradoException.class
+target/classes/br/com/farias/cepws/model/BaseBean.class
+target/classes/br/com/farias/cepws/model/Endereco.class
+target/classes/br/com/farias/cepws/service/wsrest/CEPWebService.class
+target/test-classes/br/com/farias/cepws/service/wsrest/CEPWebServiceTest.class
+target/test-classes/br/com/farias/cepws/service/wsrest/CEPWebServiceTest$2.class
+target/classes/br/com/farias/cepws/service/wsrest/RetornoWebService.class
+target/m2e-wtp/web-resources/META-INF/MANIFEST.MF
+target/test-classes/br/com/farias/cepws/data/dao/EnderecoDAOImplTest.class
+target/m2e-wtp/web-resources/META-INF/maven/br.com.farias.cepws/CEPWebServices/pom.xml
+target/m2e-wtp/web-resources/META-INF/maven/br.com.farias.cepws/CEPWebServices/pom.properties
+target/test-classes/br/com/farias/cepws/service/wsrest/CEPWebServiceTest$1.class
